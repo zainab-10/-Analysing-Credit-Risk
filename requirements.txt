@@ -1,0 +1,13 @@
+Flask
+numpy
+tqdm
+Werkzeug
+gunicorn
+Jinja2
+itsdangerous
+MarkupSafe
+waitress
+pandas
+requests
+scikit-learn
+scipy
